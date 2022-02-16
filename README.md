@@ -5,7 +5,7 @@
 - 🎓 &nbsp; Studying Full Stack Web Development at Bloom Institute of Technology. </br>
 - 💼 &nbsp; Currently working as a humble server at Genki Sushi Inc. </br>
 - 🌱 &nbsp; Getting more familiar with TypeScript. </br>
-- 🎮 &nbsp; Big Time Gamer: Masters ranked TFT player and Mythic ranked MTG Arena player. </br>
+- 🎮 &nbsp; Big Time Gamer: Masters ranked TFT player and Mythic ranked MTG Arena player. </br> </br>
 
 <p align="center">
   <i><b>Let's connect and chat!</b></i>
