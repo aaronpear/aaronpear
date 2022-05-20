@@ -1,10 +1,9 @@
 ## Hey, I'm Aaron! 
 
 <h2>About Me</h2>
-- 😤 &nbsp; Building apps from the ground up to prove my developer chops. </br>
-- 🎓 &nbsp; Studying Full Stack Web Development at Bloom Institute of Technology. </br>
-- 💼 &nbsp; Currently working as a humble server at Genki Sushi Inc. </br>
-- 🌱 &nbsp; Getting more familiar with TypeScript. </br>
+- 🎓 &nbsp; Recently received my Full Stack Web Development certificate at Bloom Institute of Technology. </br>
+- 🌱 &nbsp; Currently developing my personal project Prodigious, a Digimon trading card game collection tracker and deck builder. </br>
+- 💼 &nbsp; Currently working part time as a humble server at Genki Sushi Inc. </br>
 - 🎮 &nbsp; Big Time Gamer: Masters ranked TFT player and Mythic ranked MTG Arena player. </br> </br>
 
 <p align="center">
