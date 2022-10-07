@@ -3,7 +3,6 @@
 <h2>About Me</h2>
 - 🎓 &nbsp; Recently received my Full Stack Web Development certificate at Bloom Institute of Technology (FKA Lambda School). </br>
 - 🏛 &nbsp; Graduated with BAs in Geographic Information Systems and Sociology in 2017. </br>
-- 🌱 &nbsp; Currently developing my personal project Prodigious, a full-stack Digimon TCG collection tracker and deck builder. </br>
 - 🎮 &nbsp; Big Time Gamer: Masters ranked TFT player and Mythic ranked MTG Arena player. </br> </br>
 
 <p align="center">
